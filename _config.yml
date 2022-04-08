@@ -1,33 +1,33 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : AirScrobble - Identify and Scrobble Songs Quickly # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1618366994                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/us/app/airscrobble/id1618366994 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : # add press kit link here                 # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : S
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Tomás Martins                              
+your_link                                 : # https://emilbaehr.com                     
+your_city                                 : Campinas                               
+email_address                             : support@airscrobble.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : tommycadle
+twitter_username                          : tommycadle
+github_username                           : tfmart
 youtube_username                          :
 
 
@@ -35,41 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Identify and Discover Songs
+    description                           : Whether the song playing at your coffe shop grabbed your ineterst of you're listening to something on your record player, easily identiy any song playing on your surroundings
+    fontawesome_icon_name                 : comment-music
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Scrobble to your Last.fm profile
+    description                           : Keep track of your new discovered songs by easily scrobbling them to your Last.fm profile
+    fontawesome_icon_name                 : lastfm
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : More coming soon
+    description                           : Identified song history, add to your local library, get to know more about the song or artists... Follow our Twitter to stay up to date when any new features are released!
+    fontawesome_icon_name                 : clock-three
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : # Automatic Icon and Metadata
+    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : # sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : # Easy to Tweak
+    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : # Feature List
+    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : # Smart App Banner
+    description                           : # Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : # arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : # Social Links
+    description                           : # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : # FontAwesome Support
+    description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
