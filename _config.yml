@@ -1,5 +1,5 @@
 #page title
-page_title                                : AirScrobble - Identify and Scrobble Songs Quickly # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : AirScrobble - Match and Scrobble # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1618366994                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,7 +13,7 @@ presskit_download_link                    : # add press kit link here           
 app_icon                                  : assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : AirScrobble                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Quickly scrobble any song playing around you
+app_description                           : Match songs playing around you and scrobble them to Last.fm
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,12 +22,12 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Tomás Martins                              
 your_link                                 : # https://emilbaehr.com                     
-your_city                                 : Campinas                               
+your_city                                 : Campinas, Brazil
 email_address                             : support@airscrobble.com
 facebook_username                         :                                           
 instagram_username                        : # tommycadle
-twitter_username                          : # tommycadle
-github_username                           : # tfmart
+twitter_username                          : tommycadle
+github_username                           : tfmart
 youtube_username                          :
 
 
