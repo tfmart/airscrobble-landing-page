@@ -4,6 +4,34 @@ title: What's New
 include_in_header: true
 ---
 
+### `Version 1.1`
+# AirScrobble 1.1: Like new songs and start matching faster
+
+AirScrobble first update is now live, bringing a couple of new features that will help you start matching new discoveries faster and 
+
+## Add new discoveries to Liked Tracks on Last.fm
+
+Heard a new song that instantly became your latest obsession? Now you can add any new matches to your Liked Track list on your Last.fm profile! Simply tap the 􀍡 button and select the new `Love Track on Last.fm` option to add it to your faves. You can also double tap on the song's artwork to like it!
+
+![Addd new discoveries to your Liked Track list!](../assets/changelog/v1.1/like.png)
+
+## Start matching or check your history with Quick Actions
+
+Need to discover what's playing around ASAP? Or want to remember what was that song that you got hooked on earlier in the day? With the newly added Quick Actions you can press and hold the app's icon to access new shortcuts to access a feature as soon as the app opens! For this inital release, we are launching Quick Actions to start matching when opening the app and to access your history.
+
+![Use the new quick actions and get straight to the point](../assets/changelog/v1.1/v.png)
+
+And for the powerusers out there, we are also exposing these shortcuts through a new URL scheme that's been added with version 1.1! AirScrobble will use the `airscrobble://` format and you can launch these quick actions with the following URLs:
+
+- `airscrobble://match` to start matching upon opening the app
+- `airscrobble://history` to open the history page in the app
+
+---
+
+I hope you've been enjoying AirScrobble and hopefully this update will make you love it even more! If you're feeling generous, consider [leaving a review in the App Store](https://itunes.apple.com/app/id1618366994?action=write-review)!
+
+As iOS 16 approaches, we'll surely have some sweet new features for you early adopters out there. [Stay tuned on our Twitter page](https://twitter.com/AirScrobble) to get some exclusive sneakpeeks 👀
+
 ### `Initial Release`
 # AirScrobble is now available in the App Store
 
