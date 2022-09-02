@@ -19,7 +19,7 @@ Heard a new song that instantly became your latest obsession? Now you can add an
 
 Need to discover what's playing around ASAP? Or want to remember what was that song that you got hooked on earlier in the day? With the newly added Quick Actions you can press and hold the app's icon to access new shortcuts to access a feature as soon as the app opens! For this inital release, we are launching Quick Actions to start matching when opening the app and to access your history.
 
-![Use the new quick actions and get straight to the point](../assets/changelog/v1.1/v.png)
+![Use the new quick actions and get straight to the point](../assets/changelog/v1.1/quickActions.png)
 
 And for the powerusers out there, we are also exposing these shortcuts through a new URL scheme that's been added with version 1.1! AirScrobble will use the `airscrobble://` format and you can launch these quick actions with the following URLs:
 
