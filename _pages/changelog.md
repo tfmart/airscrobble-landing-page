@@ -13,13 +13,17 @@ AirScrobble first update is now live, bringing a couple of new features that wil
 
 Heard a new song that instantly became your latest obsession? Now you can add any new matches to your Liked Track list on your Last.fm profile! Simply tap the 􀍡 button and select the new `Love Track on Last.fm` option to add it to your faves. You can also double tap on the song's artwork to like it!
 
-![Addd new discoveries to your Liked Track list!](../assets/changelog/v1.1/like.png)
+<p align="center">
+  <img src="../assets/changelog/v1.1/like.png" width="600" />
+</p> 
 
 ## Start matching or check your history with Quick Actions
 
 Need to discover what's playing around ASAP? Or want to remember what was that song that you got hooked on earlier in the day? With the newly added Quick Actions you can press and hold the app's icon to access new shortcuts to access a feature as soon as the app opens! For this inital release, we are launching Quick Actions to start matching when opening the app and to access your history.
 
-![Use the new quick actions and get straight to the point](../assets/changelog/v1.1/quickActions.png)
+<p align="center">
+  <img src="../assets/changelog/v1.1/quickActions.png" width="360" />
+</p> 
 
 And for the powerusers out there, we are also exposing these shortcuts through a new URL scheme that's been added with version 1.1! AirScrobble will use the `airscrobble://` format and you can launch these quick actions with the following URLs:
 
