@@ -11,7 +11,7 @@ AirScrobble first update is now live, bringing a couple of new features that wil
 
 ## Add new discoveries to Liked Tracks on Last.fm
 
-Heard a new song that instantly became your latest obsession? Now you can add any new matches to your Liked Track list on your Last.fm profile! Simply tap the 􀍡 button and select the new `Love Track on Last.fm` option to add it to your faves. You can also double tap on the song's artwork to like it!
+Heard a new song that instantly became your latest obsession? Now you can add any new matches to your Liked Track list on your Last.fm profile! Simply tap the ⋯ button and select the new `Love Track on Last.fm` option to add it to your faves. You can also double tap on the song's artwork to like it!
 
 ![Addd new discoveries to your Liked Track list!](../assets/changelog/v1.1/like.png)
 
