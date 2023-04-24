@@ -397,8 +397,8 @@ nav > ul li a:active {
 .videoContainer {
 	width: 349px;
 	height: 755px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
+	// -webkit-clip-path: url(#screenMask);
+	// clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
 }
