@@ -13,7 +13,7 @@ presskit_download_link                    : # add press kit link here           
 app_icon                                  : assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : AirScrobble                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Match songs playing around you and scrobble them to Last.fm
+app_description                           : Discover, match and scrobble the music playing around you with AirScrobble for iOS and iPadOS.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,25 +35,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Identify and Discover Songs
-    description                           : Whether the song playing at your coffe shop grabbed your ineterst of you're listening to something on your record player, easily identiy any song playing on your surroundings
-    fontawesome_icon_name                 : comment-music
+  - title                                 : Discover what's playing around you
+    description                           : Whether you're at a coffee shop and a song catches your interest, or you're listening to music on your record player, easily identify any song playing in your surroundings.
+    fontawesome_icon_name                 : computer-speaker
     
   - title                                 : Scrobble to your Last.fm profile
-    description                           : Keep track of your new discovered songs by easily scrobbling them to your Last.fm profile
-    fontawesome_icon_name                 : lastfm
+    description                           : Quickly log all your discoveries to your Last.fm profile
+    fontawesome_icon_name                 : infinity
 
-  - title                                 : More coming soon
-    description                           : Identified song history, add to your local library, get to know more about the song or artists... Follow our Twitter to stay up to date when any new features are released!
-    fontawesome_icon_name                 : clock-three
+  - title                                 : Name what's playing in-device
+    description                           : Match and scrobble songs from your device's speakers, including those from videos, voice recordings, and social media feeds. (Not compatible with earbuds or headphones like AirPods.)
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : # Automatic Icon and Metadata
-    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : # sync
-
-  - title                                 : # Easy to Tweak
-    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # adjust
+  - title                                 : Apple Music Integration
+    description                           : View and add your new discoveries to your Apple Music library.
+    fontawesome_icon_name                 : music
   
   - title                                 : # Feature List
     description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
