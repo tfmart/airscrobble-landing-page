@@ -12,6 +12,8 @@ include_in_header: true
 
 **Price**: Free with optional subscription
 
+[**Download screenshots and assets here**](../assets/presskit/AirScrobble%20Press%20Kit.zip)
+
 AirScrobble is a Last.fm scrobbler for iOS and iPadOS that logs the songs playing around you in real life. By seamlessly integrating the powerful music discovery capabilities of Shazam with the music logging service of Last.fm, AirScrobble allows you to log your new discoveries in real-time, whether you're at a concert, listening to the radio on a road trip, or when the playlist in the store you're visiting is right up your alley.
 
 AirScrobble is laser-focused on making its core feature, music discoverability and logging, as easy as possible. It provides a simple and streamlined interface, while also allowing for powerful customization to fine-tune your experience.
