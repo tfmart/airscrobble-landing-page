@@ -8,7 +8,7 @@ include_in_header: true
 
 **AirScrobble for iPhone and iPad**
 
-**Requires**: iOS 15.0 or later
+**Requires**: iOS 16.2 or later
 
 **Price**: Free with optional subscription
 
@@ -16,7 +16,7 @@ include_in_header: true
 
 AirScrobble is a Last.fm scrobbler for iOS and iPadOS that logs the songs playing around you in real life. By seamlessly integrating the powerful music discovery capabilities of Shazam with the music logging service of Last.fm, AirScrobble allows you to log your new discoveries in real-time, whether you're at a concert, listening to the radio on a road trip, or when the playlist in the store you're visiting is right up your alley.
 
-AirScrobble is laser-focused on making its core feature, music discoverability and logging, as easy as possible. It provides a simple and streamlined interface, while also allowing for powerful customization to fine-tune your experience.
+AirScrobble is laser-focused on making its core feature, music discoverability and scrobbling, as easy as possible. It provides a simple and streamlined interface, while also allowing for powerful customization to fine-tune your experience.
 
 ## Main Features
 
@@ -27,9 +27,10 @@ AirScrobble is laser-focused on making its core feature, music discoverability a
 - **History:** AirScrobble automatically saves all songs matched to your History page, making it easy to remember that tune you heard earlier. Additionally, you can scrobble all your past discoveries and all your entries are synced on your devices with iCloud.
 - **Apple Music Integration:** Quickly view all your discoveries, whether recently matched or from your history, in Apple Music and add them to your library through a playlist. The app can also be setup to automatically save new discoveries to the playlist, which can be great to quickly convert mixtapes playing on a stereo on the fly or add radio tracks on your library
 - **Auto Scrobble:** Set up automatic scrobbling for new music discoveries. You can adjust the timer to ensure the app waits long enough to confirm a match before scrobbling, preventing any mismatches.
+- **Control Center Widgets:** Whether you're looking to quickly identify and scrobble a song or want to start a longer listening sesison with Auto Match, AirScrobble provides two Control Center widgets to toggle both Single Match mode (recognize one song at a time) or Auto Match. When using these widgets, the whole music recognition and scrobbling tasks will be handled in the background and users can keep track of the current status through Live Activities alerts.
 - **Siri integration:** Easily discover new songs hands-free with AirScrobble by using your voice with Siri. Just say *"Name this tune with AirScrobble"* to let the app identify what's playing around you or on your device and then scrobble the song that has been matched. You can also use Siri to quickly open your History page in the app
 - **Shortcuts support:** Integrate the suite of functionalities from the Last.fm API in your shortcuts and automations. With the actions available in the Shortcuts app, you can effortlessly start access music and profiles data, get trending tracks on Last.fm and even scrobble a new entry, allowing you to scrobble songs from an even wider range of sources than before.
-- **Support for latest iOS features:** AirScrobble aims to be a great iOS citizen by adapting many of the latest features available in the platform, such as Lock Screen Widgets, Live Activties and App Intents
+- **Support for latest iOS features:** AirScrobble aims to be a great iOS citizen by adapting many of the latest features available in the platform, such as Control Center Widgets, Live Activties and App Intents
 - **Privacy-focused:** AirScrobble doesn't store any recordings or share your discoveries with any third party services
 
 ## AirScrobble+
@@ -47,7 +48,6 @@ AirScrobble+ is an optional membership to unlock all features in the app. All us
 These features requires an AirScrobble+ membership
 
 - **Auto Match**
-- **Live Activities for Auto Match**
 - **Full History Access**
 
 ### Included for everyone
@@ -77,7 +77,7 @@ AirScrobble can be downloaded for free and the core functionality of music disco
 
 **Which devices is AirScrobble compatible with?**
 
-AirScrobble is compatible with iPhone and iPad devices with iOS 15.0 or later.
+AirScrobble is compatible with iPhone and iPad devices with iOS 16.2 or later.
 
 **Is a Last.fm account required to use AirScrobble?**
 
